@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @otis5carnegi344
+- 👀 I’m interested in Full-stack developer in the making.
+- 🌱 Committed to delivering user-friendly web experiences.
